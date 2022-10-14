@@ -1,0 +1,303 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ahmedbalousha\\source\\repos\\User\\User.API\\Users.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ahmedbalousha\\source\\repos\\User\\User.API\\Users.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ahmedbalousha\\source\\repos\\User\\User.API\\Users.API.csproj",
+        "projectName": "Users.API",
+        "projectPath": "C:\\Users\\ahmedbalousha\\source\\repos\\User\\User.API\\Users.API.csproj",
+        "packagesPath": "C:\\Users\\ahmedbalousha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ahmedbalousha\\source\\repos\\User\\User.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ahmedbalousha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\ahmedbalousha\\source\\repos\\User\\User.Core\\Users.Core.csproj": {
+                "projectPath": "C:\\Users\\ahmedbalousha\\source\\repos\\User\\User.Core\\Users.Core.csproj"
+              },
+              "C:\\Users\\ahmedbalousha\\source\\repos\\User\\User.Infrastructure\\Users.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\ahmedbalousha\\source\\repos\\User\\User.Infrastructure\\Users.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ahmedbalousha\\source\\repos\\User\\User.Core\\Users.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ahmedbalousha\\source\\repos\\User\\User.Core\\Users.Core.csproj",
+        "projectName": "Users.Core",
+        "projectPath": "C:\\Users\\ahmedbalousha\\source\\repos\\User\\User.Core\\Users.Core.csproj",
+        "packagesPath": "C:\\Users\\ahmedbalousha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ahmedbalousha\\source\\repos\\User\\User.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ahmedbalousha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\ahmedbalousha\\source\\repos\\User\\User.Data\\Users.Data.csproj": {
+                "projectPath": "C:\\Users\\ahmedbalousha\\source\\repos\\User\\User.Data\\Users.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ahmedbalousha\\source\\repos\\User\\User.Data\\Users.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ahmedbalousha\\source\\repos\\User\\User.Data\\Users.Data.csproj",
+        "projectName": "Users.Data",
+        "projectPath": "C:\\Users\\ahmedbalousha\\source\\repos\\User\\User.Data\\Users.Data.csproj",
+        "packagesPath": "C:\\Users\\ahmedbalousha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ahmedbalousha\\source\\repos\\User\\User.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ahmedbalousha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ahmedbalousha\\source\\repos\\User\\User.Infrastructure\\Users.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ahmedbalousha\\source\\repos\\User\\User.Infrastructure\\Users.Infrastructure.csproj",
+        "projectName": "Users.Infrastructure",
+        "projectPath": "C:\\Users\\ahmedbalousha\\source\\repos\\User\\User.Infrastructure\\Users.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\ahmedbalousha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ahmedbalousha\\source\\repos\\User\\User.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ahmedbalousha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\ahmedbalousha\\source\\repos\\User\\User.Core\\Users.Core.csproj": {
+                "projectPath": "C:\\Users\\ahmedbalousha\\source\\repos\\User\\User.Core\\Users.Core.csproj"
+              },
+              "C:\\Users\\ahmedbalousha\\source\\repos\\User\\User.Data\\Users.Data.csproj": {
+                "projectPath": "C:\\Users\\ahmedbalousha\\source\\repos\\User\\User.Data\\Users.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

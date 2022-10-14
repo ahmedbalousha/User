@@ -1,0 +1,15 @@
+C:\Users\ahmedbalousha\source\repos\User\User.Data\bin\Debug\net5.0\Users.Data.deps.json
+C:\Users\ahmedbalousha\source\repos\User\User.Data\bin\Debug\net5.0\Users.Data.runtimeconfig.json
+C:\Users\ahmedbalousha\source\repos\User\User.Data\bin\Debug\net5.0\Users.Data.runtimeconfig.dev.json
+C:\Users\ahmedbalousha\source\repos\User\User.Data\bin\Debug\net5.0\Users.Data.dll
+C:\Users\ahmedbalousha\source\repos\User\User.Data\bin\Debug\net5.0\ref\Users.Data.dll
+C:\Users\ahmedbalousha\source\repos\User\User.Data\bin\Debug\net5.0\Users.Data.pdb
+C:\Users\ahmedbalousha\source\repos\User\User.Data\obj\Debug\net5.0\Users.Data.csproj.AssemblyReference.cache
+C:\Users\ahmedbalousha\source\repos\User\User.Data\obj\Debug\net5.0\Users.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmedbalousha\source\repos\User\User.Data\obj\Debug\net5.0\Users.Data.AssemblyInfoInputs.cache
+C:\Users\ahmedbalousha\source\repos\User\User.Data\obj\Debug\net5.0\Users.Data.AssemblyInfo.cs
+C:\Users\ahmedbalousha\source\repos\User\User.Data\obj\Debug\net5.0\Users.Data.csproj.CoreCompileInputs.cache
+C:\Users\ahmedbalousha\source\repos\User\User.Data\obj\Debug\net5.0\Users.Data.dll
+C:\Users\ahmedbalousha\source\repos\User\User.Data\obj\Debug\net5.0\ref\Users.Data.dll
+C:\Users\ahmedbalousha\source\repos\User\User.Data\obj\Debug\net5.0\Users.Data.pdb
+C:\Users\ahmedbalousha\source\repos\User\User.Data\obj\Debug\net5.0\Users.Data.genruntimeconfig.cache

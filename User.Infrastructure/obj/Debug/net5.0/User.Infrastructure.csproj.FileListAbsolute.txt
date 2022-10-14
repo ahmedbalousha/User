@@ -1,0 +1,15 @@
+C:\Users\ahmedbalousha\source\repos\User\User.Infrastructure\obj\Debug\net5.0\User.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ahmedbalousha\source\repos\User\User.Infrastructure\obj\Debug\net5.0\User.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmedbalousha\source\repos\User\User.Infrastructure\obj\Debug\net5.0\User.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ahmedbalousha\source\repos\User\User.Infrastructure\obj\Debug\net5.0\User.Infrastructure.AssemblyInfo.cs
+C:\Users\ahmedbalousha\source\repos\User\User.Infrastructure\obj\Debug\net5.0\User.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ahmedbalousha\source\repos\User\User.Infrastructure\bin\Debug\net5.0\User.Infrastructure.deps.json
+C:\Users\ahmedbalousha\source\repos\User\User.Infrastructure\bin\Debug\net5.0\User.Infrastructure.dll
+C:\Users\ahmedbalousha\source\repos\User\User.Infrastructure\bin\Debug\net5.0\ref\User.Infrastructure.dll
+C:\Users\ahmedbalousha\source\repos\User\User.Infrastructure\bin\Debug\net5.0\User.Infrastructure.pdb
+C:\Users\ahmedbalousha\source\repos\User\User.Infrastructure\bin\Debug\net5.0\User.Data.dll
+C:\Users\ahmedbalousha\source\repos\User\User.Infrastructure\bin\Debug\net5.0\User.Data.pdb
+C:\Users\ahmedbalousha\source\repos\User\User.Infrastructure\obj\Debug\net5.0\User.Infrastructure.csproj.CopyComplete
+C:\Users\ahmedbalousha\source\repos\User\User.Infrastructure\obj\Debug\net5.0\User.Infrastructure.dll
+C:\Users\ahmedbalousha\source\repos\User\User.Infrastructure\obj\Debug\net5.0\ref\User.Infrastructure.dll
+C:\Users\ahmedbalousha\source\repos\User\User.Infrastructure\obj\Debug\net5.0\User.Infrastructure.pdb
